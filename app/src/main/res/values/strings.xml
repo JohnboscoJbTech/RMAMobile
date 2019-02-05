@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">RTMA</string>
+
+    <!--Login-->
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Phone Number</string>
+    <string name="prompt_password">Token</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_incorrect_credential">This password and the username does not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!--Election-->
+    <string name="title_activity_election">ElectionActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">RTMA</string>
+    <string name="nav_header_subtitle">Bigdatamanagement.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--API Urls-->
+    <!--<string name="base_url">http://41.217.207.226:8080/</string>-->
+    <!--<string name="base_url">http://localhost:44339/</string>-->
+    <string name="api_login">/Account/AgentMobileLogin</string>
+    <string name="api_get_parties">/Home/Getparty</string>
+    <string name="api_post_result">/ElectionManager/PostResult</string>
+    <string name="api_post_complaint">/home/ActivityReport</string>
+    <string name="title_activity_authentication">Sign in</string>
+
+
+    <!--Constants-->
+    <string name="module_id">MODULE_ID</string>
+    <string name="module_name">MODULE_NAME</string>
+    <string name="result_id">RESULT_ID</string>
+    <string name="polling_unit_name">POLLING_UNIT_NAME</string>
+    <string name="pref_name">com.jbtechventures.inec_rtma</string>
+
+    <!--Menu-->
+    <string name="action_sync">Synchronize</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search by Polling Election Name</string>
+    <string name="complain_search_hint">Search by Activity Title</string>
+
+    <!--ALert strings-->
+    <string name="storage_permission_info">You cannot proceed if you do not grant permission for application to access pictures</string>
+    <string name="application_info">Application Info</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="title_activity_election_result">ElectionResultActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="party_form_instruction">
+        &lt;br /&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;b&gt;  Type-in the name of the party. &lt;/b&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;  Enter the count of the vote. &lt;/b&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;  Use the plus button to add more. &lt;/b&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;  Use the trash icon to delete. &lt;/b&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    </string>
+
+    <!--Buttons-->
+    <string name="next_btn">Next</string>
+    <string name="previous_btn">Previous</string>
+
+    <!--Result Activity strings-->
+    <string name="add_image_button">Add Image Button</string>
+    <string name="no_of_reg_voters">No of Registered Voters</string>
+    <string name="no_of_invalid_voters">No of Invalid Votes</string>
+    <string name="no_of_accredited_voters">No of Accredited Voters</string>
+    <string name="no_of_cast_votes">No of Votes Cast</string>
+    <string name="save_btn">Save</string>
+    <string name="photo_attach_info">Click on the attach icon to browse the picture</string>
+
+
+</resources>

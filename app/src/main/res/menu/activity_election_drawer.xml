@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_election"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Active Elections" />
+        <item
+            android:id="@+id/nav_submission"
+            android:icon="@drawable/ic_mail_black_24dp"
+            android:title="View Submissions" />
+        <item
+            android:id="@+id/nav_complaints"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Activities" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_lock_black_24dp"
+            android:title="LogOut" />
+    </group>
+
+</menu>

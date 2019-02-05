@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00af9d</color>
+    <color name="colorPrimaryDark">#008b7c</color>
+    <color name="colorAccent">#009dff</color>
+
+    <!--General-->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="info">#f76ce2e9</color>
+    <color name="primary">#00af9d</color>
+    <color name="warning">#f7efbe5b</color>
+    <color name="danger">#f7ef2327</color>
+    <color name="success">#f71cb330</color>
+
+    <color name="progressStart">#fb03b17c</color>
+    <color name="progressMid">#e103ca8e</color>
+    <color name="progressEnd">#8d04e29f</color>
+</resources>

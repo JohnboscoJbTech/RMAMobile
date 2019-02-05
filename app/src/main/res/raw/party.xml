@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>2</id>
+    <name>Accord</name>
+    <code>A</code>
+  </row>
+  <row>
+    <id>3</id>
+    <name>Action Alliance</name>
+    <code>AA</code>
+  </row>
+  <row>
+    <id>4</id>
+    <name>AFRICAN ACTION CONGRESS</name>
+    <code>AAC</code>
+  </row>
+  <row>
+    <id>5</id>
+    <name>ADVANCED ALLIED PARTY</name>
+    <code>AAP</code>
+  </row>
+  <row>
+    <id>6</id>
+    <name>All Blending Party</name>
+    <code>ABP</code>
+  </row>
+  <row>
+    <id>7</id>
+    <name>Advanced Congress Of Democrats</name>
+    <code>ACD</code>
+  </row>
+  <row>
+    <id>8</id>
+    <name>Allied Congress Party of Nigeria</name>
+    <code>ACPN</code>
+  </row>
+  <row>
+    <id>9</id>
+    <name>Alliance For Democracy</name>
+    <code>AD</code>
+  </row>
+  <row>
+    <id>10</id>
+    <name>African Democratic Congress</name>
+    <code>ADC</code>
+  </row>
+  <row>
+    <id>11</id>
+    <name>Action Democratic Party</name>
+    <code>ADP</code>
+  </row>
+  <row>
+    <id>12</id>
+    <name>All Grassroots Alliance</name>
+    <code>AGA</code>
+  </row>
+  <row>
+    <id>13</id>
+    <name>ALL GRAND ALLIANCE PARTY</name>
+    <code>AGAP</code>
+  </row>
+  <row>
+    <id>14</id>
+    <name>ADVANCED NIGERIA DEMOCRATIC PARTY</name>
+    <code>ANDP</code>
+  </row>
+  <row>
+    <id>15</id>
+    <name>Alliance for New Nigeria</name>
+    <code>ANN</code>
+  </row>
+  <row>
+    <id>16</id>
+    <name>ALLIANCE NATIONAL PARTY</name>
+    <code>ANP</code>
+  </row>
+  <row>
+    <id>17</id>
+    <name>Abundant Nigeria Renewal Party</name>
+    <code>ANRP</code>
+  </row>
+  <row>
+    <id>18</id>
+    <name>African Peoples Alliance</name>
+    <code>APA</code>
+  </row>
+  <row>
+    <id>19</id>
+    <name>ALL PROGRESSIVES CONGRESS</name>
+    <code>APC</code>
+  </row>
+  <row>
+    <id>20</id>
+    <name>Advanced Peoples Democratic Alliance</name>
+    <code>APDA</code>
+  </row>
+  <row>
+    <id>21</id>
+    <name>All Progressives Grand Alliance</name>
+    <code>APGA</code>
+  </row>
+  <row>
+    <id>22</id>
+    <name>ALLIED PEOPLES MOVEMENT</name>
+    <code>APM</code>
+  </row>
+  <row>
+    <id>23</id>
+    <name>ALTERNATIVE PARTY OF NIGERIA</name>
+    <code>APN</code>
+  </row>
+  <row>
+    <id>24</id>
+    <name>ACTION PEOPLES PARTY</name>
+    <code>APP</code>
+  </row>
+  <row>
+    <id>25</id>
+    <name>ALLIANCE OF SOCIAL DEMOCRATS</name>
+    <code>ASD</code>
+  </row>
+  <row>
+    <id>26</id>
+    <name>ALLIANCE FOR A UNITED NIGERIA</name>
+    <code>AUN</code>
+  </row>
+  <row>
+    <id>27</id>
+    <name>BETTER NIGERIA PROGRESSIVE PARTY</name>
+    <code>BNPP</code>
+  </row>
+  <row>
+    <id>28</id>
+    <name>Coalition for Change</name>
+    <code>C4C</code>
+  </row>
+  <row>
+    <id>29</id>
+    <name>CHANGE ADVOCACY PARTY</name>
+    <code>CAP</code>
+  </row>
+  <row>
+    <id>30</id>
+    <name>CHANGE NIGERIA PARTY</name>
+    <code>CNP</code>
+  </row>
+  <row>
+    <id>31</id>
+    <name>CONGRESS OF PATRIOTS</name>
+    <code>COP</code>
+  </row>
+  <row>
+    <id>32</id>
+    <name>DEMOCRATIC ALTERNATIVE</name>
+    <code>DA</code>
+  </row>
+  <row>
+    <id>33</id>
+    <name>Democratic Peoples Congress</name>
+    <code>DPC</code>
+  </row>
+  <row>
+    <id>34</id>
+    <name>Democratic Peoples Party</name>
+    <code>DPP</code>
+  </row>
+  <row>
+    <id>35</id>
+    <name>Freedom and Justice Party</name>
+    <code>FJP</code>
+  </row>
+  <row>
+    <id>36</id>
+    <name>FRESH DEMOCRATIC PARTY</name>
+    <code>FRESH</code>
+  </row>
+  <row>
+    <id>37</id>
+    <name>Grassroots Development Party of Nigeria</name>
+    <code>GDPN</code>
+  </row>
+  <row>
+    <id>38</id>
+    <name>Green Party of Nigeria</name>
+    <code>GPN</code>
+  </row>
+  <row>
+    <id>39</id>
+    <name>HOPE DEMOCRATIC PARTY</name>
+    <code>HDP</code>
+  </row>
+  <row>
+    <id>40</id>
+    <name>INDEPENDENT DEMOCRATS</name>
+    <code>ID</code>
+  </row>
+  <row>
+    <id>41</id>
+    <name>Justice Must Prevail Party</name>
+    <code>JMPP</code>
+  </row>
+  <row>
+    <id>42</id>
+    <name>Kowa Party</name>
+    <code>KP</code>
+  </row>
+  <row>
+    <id>43</id>
+    <name>LIBERATION MOVEMENT</name>
+    <code>LM</code>
+  </row>
+  <row>
+    <id>44</id>
+    <name>Labour Party</name>
+    <code>LP</code>
+  </row>
+  <row>
+    <id>45</id>
+    <name>Legacy Party of Nigeria</name>
+    <code>LPN</code>
+  </row>
+  <row>
+    <id>46</id>
+    <name>Mass Action Joint Alliance</name>
+    <code>MAJA</code>
+  </row>
+  <row>
+    <id>47</id>
+    <name>Modern Democratic Party</name>
+    <code>MDP</code>
+  </row>
+  <row>
+    <id>48</id>
+    <name>MASSES MOVEMENT OF NIGERIA</name>
+    <code>MMN</code>
+  </row>
+  <row>
+    <id>49</id>
+    <name>MEGA PARTY OF NIGERIA</name>
+    <code>MPN</code>
+  </row>
+  <row>
+    <id>50</id>
+    <name>MOVEMENT FOR THE RESTORATION AND DEFENCE OF DEMOCRACY</name>
+    <code>MRDD</code>
+  </row>
+  <row>
+    <id>51</id>
+    <name>NATIONAL ACTION COUNCIL</name>
+    <code>NAC</code>
+  </row>
+  <row>
+    <id>52</id>
+    <name>NIGERIA COMMUNITY MOVEMENT PARTY</name>
+    <code>NCMP</code>
+  </row>
+  <row>
+    <id>53</id>
+    <name>National Conscience Party</name>
+    <code>NCP</code>
+  </row>
+  <row>
+    <id>54</id>
+    <name>Nigeria Democratic Congress Party</name>
+    <code>NDCP</code>
+  </row>
+  <row>
+    <id>55</id>
+    <name>NATIONAL DEMOCRATIC LIBERTY PARTY</name>
+    <code>NDLP</code>
+  </row>
+  <row>
+    <id>56</id>
+    <name>NIGERIA ELEMENTS PROGRESSIVE PARTY</name>
+    <code>NEPP</code>
+  </row>
+  <row>
+    <id>57</id>
+    <name>NIGERIA FOR DEMOCRACY</name>
+    <code>NFD</code>
+  </row>
+  <row>
+    <id>58</id>
+    <name>New Generation Party of Nigeria</name>
+    <code>NGP</code>
+  </row>
+  <row>
+    <id>59</id>
+    <name>National Interest Party</name>
+    <code>NIP</code>
+  </row>
+  <row>
+    <id>60</id>
+    <name>New Nigeria Peoples Party</name>
+    <code>NNPP</code>
+  </row>
+  <row>
+    <id>61</id>
+    <name>NIGERIA PEOPLES CONGRESS</name>
+    <code>NPC</code>
+  </row>
+  <row>
+    <id>62</id>
+    <name>New Progressive Movement</name>
+    <code>NPM</code>
+  </row>
+  <row>
+    <id>63</id>
+    <name>National Rescue Movement</name>
+    <code>NRM</code>
+  </row>
+  <row>
+    <id>64</id>
+    <name>NATIONAL UNITY PARTY</name>
+    <code>NUP</code>
+  </row>
+  <row>
+    <id>65</id>
+    <name>PEOPLES COALITION PARTY</name>
+    <code>PCP</code>
+  </row>
+  <row>
+    <id>66</id>
+    <name>People For Democratic Change</name>
+    <code>PDC</code>
+  </row>
+  <row>
+    <id>67</id>
+    <name>Peoples Democratic Movement</name>
+    <code>PDM</code>
+  </row>
+  <row>
+    <id>68</id>
+    <name>Peoples Democratic Party</name>
+    <code>PDP</code>
+  </row>
+  <row>
+    <id>69</id>
+    <name>Progressive Peoples Alliance</name>
+    <code>PPA</code>
+  </row>
+  <row>
+    <id>70</id>
+    <name>Providence People’s Congress</name>
+    <code>PPC</code>
+  </row>
+  <row>
+    <id>71</id>
+    <name>Peoples Party of Nigeria</name>
+    <code>PPN</code>
+  </row>
+  <row>
+    <id>72</id>
+    <name>PEOPLES PROGRESSIVE PARTY</name>
+    <code>PPP</code>
+  </row>
+  <row>
+    <id>73</id>
+    <name>PEOPLES REDEMPTION PARTY</name>
+    <code>PRP</code>
+  </row>
+  <row>
+    <id>74</id>
+    <name>People’s Trust</name>
+    <code>PT</code>
+  </row>
+  <row>
+    <id>75</id>
+    <name>REFORM AND ADVANCEMENT PARTY</name>
+    <code>RAP</code>
+  </row>
+  <row>
+    <id>76</id>
+    <name>Re-build Nigeria Party</name>
+    <code>RBNP</code>
+  </row>
+  <row>
+    <id>77</id>
+    <name>Restoration Party of Nigeria</name>
+    <code>RP</code>
+  </row>
+  <row>
+    <id>78</id>
+    <name>SAVE NIGERIA CONGRESS</name>
+    <code>S.N.C</code>
+  </row>
+  <row>
+    <id>79</id>
+    <name>Social Democratic Party</name>
+    <code>SDP</code>
+  </row>
+  <row>
+    <id>80</id>
+    <name>Sustainable National Party</name>
+    <code>SNP</code>
+  </row>
+  <row>
+    <id>81</id>
+    <name>Socialist Party of Nigeria</name>
+    <code>SPN</code>
+  </row>
+  <row>
+    <id>82</id>
+    <name>UNITED PEOPLES CONGRESS</name>
+    <code>U.P.C</code>
+  </row>
+  <row>
+    <id>83</id>
+    <name>United Democratic Party</name>
+    <code>UDP</code>
+  </row>
+  <row>
+    <id>84</id>
+    <name>UNITED PATRIOTS</name>
+    <code>UP</code>
+  </row>
+  <row>
+    <id>85</id>
+    <name>Unity Party of Nigeria</name>
+    <code>UPN</code>
+  </row>
+  <row>
+    <id>86</id>
+    <name>United Progressive Party</name>
+    <code>UPP</code>
+  </row>
+  <row>
+    <id>87</id>
+    <name>WE THE PEOPLE NIGERIA</name>
+    <code>WTPN</code>
+  </row>
+  <row>
+    <id>88</id>
+    <name>YOUNG DEMOCRATIC PARTY</name>
+    <code>YDP</code>
+  </row>
+  <row>
+    <id>89</id>
+    <name>YES ELECTORATES SOLIDARITY</name>
+    <code>YES</code>
+  </row>
+  <row>
+    <id>90</id>
+    <name>YOUTH PARTY</name>
+    <code>YP</code>
+  </row>
+  <row>
+    <id>91</id>
+    <name>Young Progressive Party</name>
+    <code>YPP</code>
+  </row>
+  <row>
+    <id>92</id>
+    <name>ZENITH LABOUR PARTY</name>
+    <code>ZLP</code>
+  </row>
+</root>

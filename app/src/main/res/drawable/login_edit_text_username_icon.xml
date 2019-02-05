@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="46dp"
+        android:width="46dp" android:start="2dp">
+        <shape>
+            <solid android:color="@color/white"></solid>
+            <corners
+                android:bottomLeftRadius="30dp"
+                android:topRightRadius="30dp"
+                android:bottomRightRadius="30dp"
+                android:topLeftRadius="30dp"></corners>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/ic_person_primary_24dp"
+        android:height="25dp"
+        android:width="30dp"
+        android:gravity="center"></item>
+</layer-list>
